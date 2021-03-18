@@ -7,6 +7,6 @@ Features:
 -Eraser  
 -Auto Paint custom paints  
 -History  
--Import photos
--Export 
--Modern design
+-Import photos  
+-Export   
+-Modern design  
