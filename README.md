@@ -5,7 +5,7 @@ Features:
 -Free draw  
 -Shapes: Line, Rectangle, Ellipse, Circle  
 -Eraser  
--Auto Paint custom paints  
+-Auto paint custom shapes    
 -History  
 -Import photos  
 -Export   
