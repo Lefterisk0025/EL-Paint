@@ -10,3 +10,6 @@ Features:
 -Import    
 -Export   
 -Modern design  
+
+
+Run .exe in bin/Debug to play the game
