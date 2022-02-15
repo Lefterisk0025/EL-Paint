@@ -12,4 +12,4 @@ Features:
 -Modern design  
 
 
-Run .exe in bin/Debug to play the game
+Run .exe in bin/Debug to run the app
