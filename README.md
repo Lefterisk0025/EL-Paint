@@ -12,4 +12,4 @@ Features:
 -Modern design  
 
 
-Run .exe in bin/Debug to run the app
+To start the app, run the ELPaint.exe found in Release.rar
