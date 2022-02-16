@@ -184,7 +184,7 @@
             // canvasSizeToolStripMenuItem
             // 
             this.canvasSizeToolStripMenuItem.Name = "canvasSizeToolStripMenuItem";
-            this.canvasSizeToolStripMenuItem.Size = new System.Drawing.Size(180, 24);
+            this.canvasSizeToolStripMenuItem.Size = new System.Drawing.Size(175, 24);
             this.canvasSizeToolStripMenuItem.Text = "Canvas Settings";
             this.canvasSizeToolStripMenuItem.Click += new System.EventHandler(this.canvasSizeToolStripMenuItem_Click);
             // 
